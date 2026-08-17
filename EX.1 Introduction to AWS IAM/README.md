@@ -76,5 +76,5 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 **Reg No:** 212223040093
 
 
-**Course:** Introduction to Cloud Computing  
+**Course:** Cloud Computing  
 
